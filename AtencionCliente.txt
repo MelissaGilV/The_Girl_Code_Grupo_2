@@ -1,0 +1,1 @@
+factura,beneficio,atencion,duda,comentario,pregunta,cliente,llamada,compra,online,terminos,condiciones,familia,estrato,linea,venta,tecnico,renovar,equipo,pagar,tiempo,entrega,necesidad,requerimiento,recibo,pago,devolucion,interes,inquietud,linea,consulta,soporte,solucion,soluciones,acciones,cuenta,registro,contacto,contactar
